@@ -12,7 +12,7 @@
 1. Wie haben sich die Systeme in der Zeit verändert?
 1. Welche Vorteile bringt so ein System mit?
 1. Welche kritische Aspekte gibt es zu den Systemen?
-1. Warum stellt solch ein Gehaltssystem ein agiles System dar?
+1. Warum sind solche Gehaltssysteme agil?
 1. Sollten andere Unternehmen ebenfalls ein agiles Gehaltssystem etablieren?
 
 ---
