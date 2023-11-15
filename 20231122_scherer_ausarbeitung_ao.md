@@ -8,12 +8,12 @@
 1. Was sind die Ziele der Gehaltssystem?
 1. Wie funktioniert das Gehaltssystem von sipgate?
 1. Wie funktioniert das Gehaltssystem von Buffer?
-1. Warum wurde so ein System im Unternehmen eingeführt?
+1. Warum führt ein Unternehmen so ein System ein?
 1. Wie haben sich die Systeme in der Zeit verändert?
 1. Welche Vorteile bringt so ein System mit?
 1. Welche kritische Aspekte gibt es zu den Systemen?
 1. Warum sind solche Gehaltssysteme agil?
-1. Sollten andere Unternehmen ebenfalls ein agiles Gehaltssystem etablieren?
+1. Sollten Unternehmen ein agiles Gehaltssystem etablieren?
 
 ---
 
