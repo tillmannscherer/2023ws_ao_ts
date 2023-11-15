@@ -4,6 +4,7 @@
 
 Agenda
 
+1. Was ist das Gehaltssystem von sipgate und Buffer
 1.
 1.
 1.
@@ -13,19 +14,15 @@ Agenda
 1.
 1.
 1.
-1.
-
-![Porsche](car1.jpg)
 
 ---
 
-## sipgate
+## Was ist das Gehaltssystem von sipgate und Buffer
 
-_Agiles Gehaltssystem_ von **sipgate** ist ~~super~~ sehr toll:
-
-- 123
-- 456
-- 789
+- Lean Salary Framework
+- Transparentes Gehaltsmodell von agilen Unternehmen
+- Berechnung durch nachvollziehbare Formel
+-
 
 ---
 
