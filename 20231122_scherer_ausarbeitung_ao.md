@@ -1,22 +1,28 @@
 # **Gehaltssystem von Buffer und sipgate**
 
+Tillmann Scherer
+
+Agile Organisation - WS 2023
+
+Dozent: Prof. Dr. Ulrich Anders
+
 ---
 
 ## Agenda
 
-1. Was ist das Gehaltssystem von sipgate und Buffer?
-1. Was sind die Ziele der Gehaltssystem?
-1. Wie funktioniert das Gehaltssystem von sipgate?
-1. Wie funktioniert das Gehaltssystem von Buffer?
-1. Warum führt ein Unternehmen ein agiles Gehaltssystem ein?
-1. Wie haben sich die Systeme in der Zeit verändert?
-1. Welche Vorteile bringt ein agiles Gehaltssystem mit?
-1. Welche kritische Aspekte gibt es zu den Systemen?
-1. Warum sind solche Gehaltssysteme agil?
+1. Allgemeines
+1. Funktionsweise
+1. Etablierung und Anpassung
+1. Vor- und Nachteile
+1. Fazit
 
 ---
 
-## 1. Was ist das Gehaltssystem von sipgate und Buffer?
+# Allgemeines
+
+---
+
+## 1. Was zeichnet die Gehaltssysteme von sipgate und Buffer aus?
 
 - Lean Salary Framework
 - Transparentes Gehaltsmodell von agilen Unternehmen
@@ -35,6 +41,10 @@
 
 ---
 
+# Funktionsweise
+
+---
+
 ## 3. Wie funktioniert das Gehaltssystem von sipgate?
 
 ![Alt text](<AO Bild1.jpg>)
@@ -44,6 +54,10 @@
 ## 4. Wie funktioniert das Gehaltssystem von Buffer?
 
 ![Alt text](<AO Bild2.jpg>)
+
+---
+
+# Etablierung und Anpassung
 
 ---
 
@@ -67,6 +81,10 @@
 
 ---
 
+# Vor- und Nachteile
+
+---
+
 ## 7. Welche Vorteile bringt ein agiles Gehaltssystem mit?
 
 - Fairness
@@ -84,6 +102,10 @@
 - Transparenz bedeudetet nicht gleich Gleichberechtigung
 - Kein abgeschlossenes Projekt
 - Zu hohe Transparenz kann die Privatsphäre beeinträchtigen
+
+---
+
+# Fazit
 
 ---
 
