@@ -32,6 +32,7 @@
 - Faire Gehaltsstrukturen
 - Steigerung der Nachvollziehbarkeit
 - Förderung der Standortunabhängigkeit
+- Automatische Ge
 
 ---
 
