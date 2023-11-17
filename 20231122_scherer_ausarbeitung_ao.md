@@ -1,4 +1,4 @@
-# Gehaltssystem von Buffer und sipgate
+# **Gehaltssystem von Buffer und sipgate**
 
 ---
 
@@ -8,12 +8,11 @@
 1. Was sind die Ziele der Gehaltssystem?
 1. Wie funktioniert das Gehaltssystem von sipgate?
 1. Wie funktioniert das Gehaltssystem von Buffer?
-1. Warum führt ein Unternehmen so ein System ein?
+1. Warum führt ein Unternehmen ein agiles Gehaltssystem ein?
 1. Wie haben sich die Systeme in der Zeit verändert?
-1. Welche Vorteile bringt so ein System mit?
+1. Welche Vorteile bringt ein agiles Gehaltssystem mit?
 1. Welche kritische Aspekte gibt es zu den Systemen?
 1. Warum sind solche Gehaltssysteme agil?
-1. Sollten Unternehmen ein agiles Gehaltssystem etablieren?
 
 ---
 
@@ -48,7 +47,7 @@
 
 ---
 
-## 5. Warum führt ein Unternehmen so ein System ein?
+## 5. Warum führt ein Unternehmen ein agiles Gehaltssystem ein?
 
 - Komplikationen bei Gehaltsverhandlungen
 - Orientierung der Vergütung am Markt
@@ -62,13 +61,13 @@
 
 - Grundsätzlich: Kein abgeschlossenes Projekt
 - Kein Zuschlag für bestimmte Bildungswege
-  - Bsp. Entwickler mit Informatik Diplom
+  - Bsp.: Entwickler mit Informatik Diplom
 - Einführung des persönlichen Bildungswegs
 - Klare Kommunikation für die Zukunft
 
 ---
 
-## 7. Welche Vorteile bringt so ein System mit?
+## 7. Welche Vorteile bringt ein agiles Gehaltssystem mit?
 
 - Fairness
 - Steigerung des Vertrauens im Team
@@ -76,6 +75,19 @@
 - Erhöhte Anzahl an Bewerbungen
 - Alleinstellungsmerkmal
 - Beseitigung von Geschlechterungleichheiten
+
+---
+
+## 8. Welche kritische Aspekte gibt es zu den Systemen?
+
+- Keine Rechengrundlage für die Zukunft
+- Transparenz bedeudetet nicht gleich Gleichberechtigung
+- Kein abgeschlossenes Projekt
+- Zu hohe Transparenz kann die Privatsphäre beeinträchtigen
+
+---
+
+## 9. Warum sind solche Gehaltssysteme agil?
 
 ---
 
