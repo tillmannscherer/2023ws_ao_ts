@@ -66,9 +66,18 @@
 - Einführung des persönlichen Bildungswegs
 - Klare Kommunikation für die Zukunft
 
+---
+
 ## 7. Welche Vorteile bringt so ein System mit?
 
--
+- Fairness
+- Steigerung des Vertrauens im Team
+- Motivation
+- Erhöhte Anzahl an Bewerbungen
+- Alleinstellungsmerkmal
+- Beseitigung von Geschlechterungleichheiten
+
+---
 
 ## Referenzen
 
