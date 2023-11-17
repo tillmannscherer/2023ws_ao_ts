@@ -89,10 +89,18 @@
 
 ## 9. Warum sind solche Gehaltssysteme agil?
 
+- Anpassung an globale Arbeitswelt
+  - Flexibilität
+- Unterstützt flache Hierarchien
+- Kontinuierlicher Prozess
+- Ermöglichung von Feedback
+
 ---
 
 ## Referenzen
 
-[Ulrich Anders](https://ulrich-anders.eu)
+[Gehaltssystem sipgate](https://sipgate.medium.com/so-zahlen-wir-6251ec42205a)
 
-[Markdown Cheatsheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#headers)
+[Gehaltssystem Buffer](https://buffer.com/resources/compensation-philosophy/)
+
+[Buffer / Raconteur ](https://www.raconteur.net/talent-culture/buffer-transparent-salary-pay)
