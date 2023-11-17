@@ -32,7 +32,7 @@
 - Faire Gehaltsstrukturen
 - Steigerung der Nachvollziehbarkeit
 - Förderung der Standortunabhängigkeit
-- Automatische Ge
+- Automatische Gehaltserhöhung
 
 ---
 
@@ -59,6 +59,16 @@
 ---
 
 ## 6. Wie haben sich die Systeme in der Zeit verändert?
+
+- Grundsätzlich: Kein abgeschlossenes Projekt
+- Kein Zuschlag für bestimmte Bildungswege
+  - Bsp. Entwickler mit Informatik Diplom
+- Einführung des persönlichen Bildungswegs
+- Klare Kommunikation für die Zukunft
+
+## 7. Welche Vorteile bringt so ein System mit?
+
+-
 
 ## Referenzen
 
