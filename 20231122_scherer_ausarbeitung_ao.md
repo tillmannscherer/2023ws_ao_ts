@@ -37,6 +37,8 @@
 
 ## 3. Wie funktioniert das Gehaltssystem von sipgate?
 
+![Alt text](<AO Bild1.jpg>)
+
 ## Referenzen
 
 [Ulrich Anders](https://ulrich-anders.eu)
