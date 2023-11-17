@@ -47,6 +47,18 @@
 
 ---
 
+## 5. Warum führt ein Unternehmen so ein System ein?
+
+- Komplikationen bei Gehaltsverhandlungen
+- Orientierung der Vergütung am Markt
+- Stärkung der Unternehmenswerte
+- Anzahl qualifizierter Bewerber
+- Einstellungsmerkmal
+
+---
+
+## 6. Wie haben sich die Systeme in der Zeit verändert?
+
 ## Referenzen
 
 [Ulrich Anders](https://ulrich-anders.eu)
