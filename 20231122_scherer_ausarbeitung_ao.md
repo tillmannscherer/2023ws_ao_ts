@@ -39,6 +39,14 @@
 
 ![Alt text](<AO Bild1.jpg>)
 
+---
+
+## 4. Wie funktioniert das Gehaltssystem von Buffer?
+
+![Alt text](<AO Bild2.jpg>)
+
+---
+
 ## Referenzen
 
 [Ulrich Anders](https://ulrich-anders.eu)
