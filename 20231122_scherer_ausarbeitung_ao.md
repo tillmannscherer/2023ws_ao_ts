@@ -33,7 +33,7 @@ Dozent: Prof. Dr. Ulrich Anders
 ## 2. Was sind die Ziele der Gehaltssystem?
 
 - Reduzierung der Gehaltsverhandlungen
-- Indiviudlle Bezahlung nach Arbeit
+- Individuelle Bezahlung
 - Faire Gehaltsstrukturen
 - Steigerung der Nachvollziehbarkeit
 - Förderung der Standortunabhängigkeit
