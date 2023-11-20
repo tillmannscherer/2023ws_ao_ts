@@ -117,9 +117,9 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ---
 
-# Vielen Dank für Ihre Aufmerksamkeit!
+## Vielen Dank für Ihre Aufmerksamkeit!
 
-Gibt es noch Fragen?
+**Gibt es noch Fragen?**
 
 ---
 
