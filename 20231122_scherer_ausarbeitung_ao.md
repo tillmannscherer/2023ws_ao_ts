@@ -25,7 +25,7 @@ Dozent: Prof. Dr. Ulrich Anders
 ## 1. Was zeichnet die Gehaltssysteme von sipgate und Buffer aus?
 
 - Lean Salary Framework
-- Transparentes Gehaltsmodell von agilen Unternehmen
+- Transparentes und gerechtes Gehaltssystem
 - Berechnung durch nachvollziehbare Formel
 
 ---
@@ -33,11 +33,11 @@ Dozent: Prof. Dr. Ulrich Anders
 ## 2. Was sind die Ziele der Gehaltssystem?
 
 - Reduzierung der Gehaltsverhandlungen
+  - Automatische Gehaltserhöhung
 - Individuelle Bezahlung
 - Faire Gehaltsstrukturen
 - Steigerung der Nachvollziehbarkeit
 - Förderung der Standortunabhängigkeit
-- Automatische Gehaltserhöhung
 
 ---
 
@@ -66,8 +66,7 @@ Dozent: Prof. Dr. Ulrich Anders
 - Komplikationen bei Gehaltsverhandlungen
 - Orientierung der Vergütung am Markt
 - Stärkung der Unternehmenswerte
-- Anzahl qualifizierter Bewerber
-- Einstellungsmerkmal
+- Steigerung der Anzahl qualifizierter Bewerber
 
 ---
 
@@ -77,7 +76,7 @@ Dozent: Prof. Dr. Ulrich Anders
 - Kein Zuschlag für bestimmte Bildungswege
   - Bsp.: Entwickler mit Informatik Diplom
 - Einführung des persönlichen Bildungswegs
-- Klare Kommunikation für die Zukunft
+- Klare Kommunikation für die Zukunft nötig
 
 ---
 
@@ -89,18 +88,17 @@ Dozent: Prof. Dr. Ulrich Anders
 
 - Fairness
 - Steigerung des Vertrauens im Team
-- Motivation
+- höhere Motivation
 - Erhöhte Anzahl an Bewerbungen
-- Alleinstellungsmerkmal
 - Beseitigung von Geschlechterungleichheiten
 
 ---
 
 ## 8. Welche kritische Aspekte gibt es zu den Systemen?
 
+- Kein abgeschlossenes Projekt
 - Keine Rechengrundlage für die Zukunft
 - Transparenz bedeudetet nicht gleich Gleichberechtigung
-- Kein abgeschlossenes Projekt
 - Zu hohe Transparenz kann die Privatsphäre beeinträchtigen
 
 ---
