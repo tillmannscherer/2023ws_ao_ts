@@ -30,7 +30,7 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ---
 
-## 2. Was sind die Ziele der Gehaltssystem?
+## 2. Was sind die Ziele der Gehaltssysteme?
 
 - Reduzierung der Gehaltsverhandlungen
   - Automatische Gehaltserhöhung
@@ -94,11 +94,11 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ---
 
-## 8. Welche kritische Aspekte gibt es zu den Systemen?
+## 8. Welche kritischen Aspekte gibt es zu den Systemen?
 
 - Kein abgeschlossenes Projekt
 - Keine Rechengrundlage für die Zukunft
-- Transparenz bedeudetet nicht gleich Gleichberechtigung
+- Transparenz bedeutet nicht gleich Gleichberechtigung
 - Zu hohe Transparenz kann die Privatsphäre beeinträchtigen
 
 ---
