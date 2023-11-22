@@ -48,7 +48,7 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ## 3. Wie funktioniert das Gehaltssystem von sipgate?
 
-![Alt text](<AO Bild1.jpg>)
+![Alt text](<AO Bild1.png>)
 
 ---
 
