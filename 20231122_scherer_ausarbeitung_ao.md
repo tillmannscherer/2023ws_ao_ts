@@ -22,7 +22,7 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ---
 
-## 1. Was zeichnet die Gehaltssysteme von sipgate und Buffer aus?
+## 1. Was zeichnet die Gehaltssysteme von Buffer und sipgate aus?
 
 - Lean Salary Framework
   - vereinfacht und effizient gestaltet
