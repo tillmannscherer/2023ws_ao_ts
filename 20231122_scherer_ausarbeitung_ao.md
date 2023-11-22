@@ -89,7 +89,7 @@ Dozent: Prof. Dr. Ulrich Anders
 
 - Fairness
 - Steigerung des Vertrauens im Team
-- höhere Motivation
+- Höhere Motivation
 - Erhöhte Anzahl an Bewerbungen
 - Beseitigung von Geschlechterungleichheiten
 
