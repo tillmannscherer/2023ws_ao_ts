@@ -54,7 +54,7 @@ Dozent: Prof. Dr. Ulrich Anders
 
 ## 4. Wie funktioniert das Gehaltssystem von Buffer?
 
-![Alt text](<AO Bild2.jpg>)
+![Alt text](<AO Bild2.png>)
 
 ---
 
